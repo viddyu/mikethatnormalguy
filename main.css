@@ -1,7 +1,9 @@
 
-html {
+#bg {
 	background-image:  url("images/image 1.jpg");
-	background-size: contain;
-	height: 100%;
-	background-repeat: no-repeat;
-}
+          background-repeat: no-repeat;
+          background-size: auto;
+          height: 960px;
+          width: 1024px;
+        }
+          
